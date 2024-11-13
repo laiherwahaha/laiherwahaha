@@ -1,8 +1,7 @@
 - 👋 "Hello world!" This is @laiherwahaha
-- 👀 I’m interested in how to apply programming in life science. 
+- 👀 I’m interested in computational genomics. 
 - 🌱 I’m currently learning R and python.
-- 💞️ I’m looking to collaborate on anything. 
-- 📫 How to reach me laiherwahaha@gmail.com
+
 
 <!---
 laiherwahaha/laiherwahaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
